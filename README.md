@@ -1,18 +1,20 @@
+  <div style="display: inline_block" align="center"><img src="https://media.giphy.com/media/IdMG2hVBohOuAggLX4/giphy.gif" height="200" width="700"/>
+  </div>
+
+
 Oi moanoite 🌑!
 </br>
 Oi moanoite 🌑!
 </br>
 Oi moanoite 🌑!
 
-##
+<hr>
 
 # 1. Prazer, Gustavo ☸️:
 * Economista em transição de carreira 📈
 * Estudante de desenvolvimento web na Trybe 👨‍💻
 
-##
-
-</br>
+<hr>
 
 ## 2. Techs && tools:
 
@@ -39,10 +41,11 @@ Oi moanoite 🌑!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" align="center" alt="gusMongoDB" height="50" width="50" />
   </div>
   
-  ##
-  </br>
+  <hr>
   
   ## 3. Contact:
   <a href = "mailto:gfarossin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-rossin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-rossin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <div style="display: inline_block" align="right"><img src="https://media.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif" height="100" width="100"/>
+  </div>
 
