@@ -44,7 +44,7 @@ Oi moanoite 🌑!
   <hr>
   
   ## 3. Contact:
-  <div style="display: inline_block" align="center">
+  <div style="display: inline_block" align="left">
   <a href = "mailto:gfarossin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-rossin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
