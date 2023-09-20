@@ -11,34 +11,35 @@ Oi moanoite 🌑!
 <hr>
 
 # 1. Prazer, Gustavo ☸️:
-* Economista em transição de carreira 📈
-* Estudante de desenvolvimento web na Trybe 👨‍💻
+* Economista apaixonado por dados!
+* 4 anos de experiência com ecommerce, criação de relatórios e insights
+* Desenvolvedor fullstack pela Trybe
+* Adoro gerar insights com dados em relatórios com PowerBI, Tableau ou Google Data Studio!
 
 <hr>
 
 ## 2. Techs && tools:
 
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" alt="gusPython" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" align="center" alt="gusPython" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" alt="gusMySQL" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" align="center" alt="gusPostgreSQL" height="50"       width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" align="center" alt="gusMongoDB" height="50" width="50" />
+  </br>
+  </br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="gusPython" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" align="center" alt="gusJS" height="50"       width="50"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" align="center" alt="gusPandas" height="50"       width="50"/>
   </br>
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" align="center" alt="gusUbuntu" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" align="center" alt="gusGit" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" align="center" alt="gusHTML5" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" align="center" alt="gusCSS3" height="50" width="50"/>
   </br>
   </br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" alt="gusJS" height="50"       width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" align="center" alt="gusJest" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align="center" alt="gusReact" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" align="center" alt="gusTrello" height="50" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" align="center" alt="gusFigma" height="50" width="50"/>
   </br>
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  align="center" alt="gusDocker" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" align="center" alt="gusMongoDB" height="50" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" alt="gusJS" height="50"       width="50"/>
   </div>
   
   <hr>
