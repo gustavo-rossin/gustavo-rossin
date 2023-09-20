@@ -12,9 +12,9 @@ Oi moanoite 🌑!
 
 # 1. Prazer, Gustavo ☸️:
 * Economista apaixonado por dados!
-* 4 anos de experiência com ecommerce, criação de relatórios e insights
 * Desenvolvedor fullstack pela Trybe
-* Adoro gerar insights com dados em relatórios com PowerBI, Tableau ou Google Data Studio!
+* 4 anos de experiência com ecommerce, criação de relatórios e insights para clientes
+* Entusiasta do PowerBI - adoro criar relatórios e trazer informações relevantes para as pessoas!
 
 <hr>
 
